@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8eee2"/><stop offset="1" stop-color="#e4c7a6"/></linearGradient></defs>
+<rect width="640" height="480" fill="url(#g)"/>
+<circle cx="510" cy="92" r="90" fill="#d9a66b" opacity=".16"/>
+<path d="M0 390 Q180 330 340 390 T640 370 V480 H0Z" fill="#a66b43" opacity=".12"/>
+<g fill="none" stroke="#70452c" stroke-width="13" stroke-linecap="round" stroke-linejoin="round" opacity=".82">
+<path d="M280 95 C210 130 180 205 195 280 C210 360 300 370 350 320 C390 280 375 220 340 205 C305 190 270 220 275 255"/>
+<path d="M350 105 L430 315 M375 95 L455 305 M400 85 L480 295"/>
+</g>
+<g fill="#70452c" opacity=".88"><circle cx="280" cy="95" r="16"/><circle cx="375" cy="95" r="13"/><circle cx="400" cy="85" r="13"/></g>
+<text x="320" y="435" text-anchor="middle" font-family="Georgia,serif" font-size="25" letter-spacing="8" fill="#70452c">RYTHM</text>
+</svg>
