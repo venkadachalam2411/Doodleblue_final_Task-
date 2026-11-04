@@ -1,0 +1,31 @@
+
+{
+  "title": "Product Name",
+  "description": "Product description",
+  "category": "guitars",
+  "brand": "Brand Name",
+  "price": 0,
+  "discountPercentage": 0,
+  "rating": 0,
+  "ratingCount": 0,
+  "stock": 0,
+  "thumbnail": "https://example.com/product-main-image.jpg",
+  "images": [
+    "https://example.com/product-image-1.jpg",
+    "https://example.com/product-image-2.jpg",
+    "https://example.com/product-image-3.jpg"
+  ],
+  "instrumentType": "Instrument Type",
+  "specifications": {
+    "Material": "Wood",
+    "Color": "Natural",
+    "Skill Level": "Beginner"
+  },
+  "tags": [
+    "beginner",
+    "musical-instrument"
+  ],
+  "returnPolicy": "7-day returns",
+  "warrantyInformation": "1 year warranty",
+  "reviews": []
+}

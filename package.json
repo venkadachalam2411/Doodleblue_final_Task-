@@ -1,0 +1,45 @@
+
+{
+  "name": "doodleblue_final_task-",
+  "version": "1.0.0",
+  "description": "Doodleblue Training_Final Task - Kadai Store E-commerce Backend",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server.js",
+    "dev": "nodemon server.js",
+    "seed": "node scripts/seedProducts.js",
+    "create-admin": "node scripts/createAdmin.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venkadachalam2411/Doodleblue_final_Task-.git"
+  },
+  "keywords": [
+    "kadai-store",
+    "ecommerce",
+    "nodejs",
+    "express",
+    "mongodb",
+    "backend",
+    "rest-api"
+  ],
+  "author": "Venkadachalam A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venkadachalam2411/Doodleblue_final_Task-/issues"
+  },
+  "homepage": "https://github.com/venkadachalam2411/Doodleblue_final_Task-#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.11.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}

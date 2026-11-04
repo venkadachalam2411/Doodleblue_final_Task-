@@ -1,0 +1,423 @@
+
+[
+  {
+    "title": "Yamaha F280 Acoustic Guitar",
+    "description": "Six-string acoustic guitar with rich sound, suitable for beginners.",
+    "category": "guitars",
+    "brand": "Yamaha",
+    "price": 8999,
+    "discountPercentage": 10,
+    "rating": 0,
+    "ratingCount": 0,
+    "stock": 20,
+    "thumbnail": "https://m.media-amazon.com/images/I/61b6DTHgNWL._SX569_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/519EIE7KTiL._SX569_.jpg",
+      "https://m.media-amazon.com/images/I/61F5PtBzJhL._SX569_.jpg",
+      "https://m.media-amazon.com/images/I/61LiPOksrZL._SX569_.jpg"
+    ],
+    "instrumentType": "Acoustic Guitar",
+    "specifications": {
+      "Strings": "6",
+      "Body Material": "Wood",
+      "Skill Level": "Beginner",
+      "Color": "Natural"
+    },
+    "tags": ["acoustic", "beginner"],
+    "returnPolicy": "7-day returns",
+    "warrantyInformation": "1 year warranty",
+    "reviews": []
+  },
+  {
+    "title": "Fender FA-125 Acoustic Guitar",
+    "description": "Dreadnought acoustic guitar designed for clear sound and comfortable playing.",
+    "category": "guitars",
+    "brand": "Fender",
+    "price": 10999,
+    "discountPercentage": 8,
+    "rating": 0,
+    "ratingCount": 0,
+    "stock": 15,
+    "thumbnail": "https://m.media-amazon.com/images/I/31uozh8ADyL._SY300_SX300_QL70_FMwebp_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/51MjXtM2yqL._SX569_.jpg",
+      "https://m.media-amazon.com/images/I/51Zyky9CxQL._SX569_.jpg",
+      "https://m.media-amazon.com/images/I/61uqArEeLbL._SX569_.jpg"
+    ],
+    "instrumentType": "Acoustic Guitar",
+    "specifications": {
+      "Strings": "6",
+      "Body Material": "Laminated Spruce",
+      "Skill Level": "Beginner",
+      "Color": "Natural"
+    },
+    "tags": ["acoustic", "dreadnought"],
+    "returnPolicy": "7-day returns",
+    "warrantyInformation": "1 year warranty",
+    "reviews": []
+  },
+  {
+    "title": "Ibanez GRX40 Electric Guitar",
+    "description": "Versatile electric guitar suitable for rock, blues and practice sessions.",
+    "category": "guitars",
+    "brand": "Ibanez",
+    "price": 15999,
+    "discountPercentage": 12,
+    "rating": 0,
+    "ratingCount": 0,
+    "stock": 12,
+    "thumbnail": "https://m.media-amazon.com/images/I/71-gKzFS+xL._SX466_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/81PBIdyeNHL._SX466_.jpg",
+      "https://m.media-amazon.com/images/I/81C5-37dJiL._SX466_.jpg",
+      "https://m.media-amazon.com/images/I/81J5NKnSA5L._SX466_.jpg"
+    ],
+    "instrumentType": "Electric Guitar",
+    "specifications": {
+      "Strings": "6",
+      "Body Material": "Poplar",
+      "Skill Level": "Beginner",
+      "Color": "Black"
+    },
+    "tags": ["electric", "rock", "guitar"],
+    "returnPolicy": "7-day returns",
+    "warrantyInformation": "1 year warranty",
+    "reviews": []
+  },
+  {
+    "title": "Kadence Frontier Electro Acoustic Guitar",
+    "description": "Electro acoustic guitar with built-in pickup for amplified performances.",
+    "category": "guitars",
+    "brand": "Kadence",
+    "price": 7499,
+    "discountPercentage": 5,
+    "rating": 0,
+    "ratingCount": 0,
+    "stock": 18,
+    "thumbnail": "https://m.media-amazon.com/images/I/61xfyeuQjJL._SY450_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/51qxsk9o85L._SY450_.jpg",
+      "https://m.media-amazon.com/images/I/51TZOVxxxUL._SY450_.jpg",
+      "https://m.media-amazon.com/images/I/61plUV6v15L._SY450_.jpg"
+    ],
+    "instrumentType": "Electro Acoustic Guitar",
+    "specifications": {
+      "Strings": "6",
+      "Body Material": "Wood",
+      "Skill Level": "Beginner",
+      "Color": "Brown"
+    },
+    "tags": ["electro-acoustic", "beginner"],
+    "returnPolicy": "7-day returns",
+    "warrantyInformation": "1 year warranty",
+    "reviews": []
+  },
+  {
+    "title": "Casiotone Mini Keyboard SA-80 with Piano tones",
+    "description": "Portable electronic keyboard with multiple tones and learning features.",
+    "category": "keyboards",
+    "brand": "Casio",
+    "price": 12999,
+    "discountPercentage": 10,
+    "rating": 0,
+    "ratingCount": 0,
+    "stock": 10,
+    "thumbnail": "https://m.media-amazon.com/images/I/41159MP6y0L._SY300_SX300_QL70_FMwebp_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/41159MP6y0L._SY300_SX300_QL70_FMwebp_.jpg",
+      "https://m.media-amazon.com/images/I/513rBXmKGJL._SL1100_.jpg",
+      "https://m.media-amazon.com/images/I/31hYQ19vpmL._SL1100_.jpg"
+    ],
+    "instrumentType": "Portable Keyboard",
+    "specifications": {
+      "Keys": "44",
+      "Tones": "400",
+      "Power": "Battery or Adapter",
+      "Color": "White"
+    },
+    "tags": ["keyboard", "portable", "beginner"],
+    "returnPolicy": "7-day returns",
+    "warrantyInformation": "2 years warranty",
+    "reviews": []
+  },
+  {
+    "title": "Yamaha PSR-E373 Keyboard",
+    "description": "Digital keyboard with expressive sounds and features for music learners.",
+    "category": "keyboards",
+    "brand": "Yamaha",
+    "price": 18999,
+    "discountPercentage": 8,
+    "rating": 0,
+    "ratingCount": 0,
+    "stock": 8,
+    "thumbnail": "https://m.media-amazon.com/images/I/51QUVRL+btL._SX450_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/61rSMc04aQL._SY450_.jpg",
+    "https://m.media-amazon.com/images/I/71pDvp9fbAL._SY450_.jpg",
+    "https://m.media-amazon.com/images/I/61lfeYa33PL._SX450_.jpg"
+    ],
+    "instrumentType": "Digital Keyboard",
+    "specifications": {
+      "Keys": "61",
+      "Voices": "622",
+      "Connectivity": "USB",
+      "Color": "Black"
+    },
+    "tags": ["keyboard", "digital", "music-learning"],
+    "returnPolicy": "7-day returns",
+    "warrantyInformation": "2 years warranty",
+    "reviews": []
+  },
+  {
+    "title": "Roland GO:KEYS 5 Keyboard",
+    "description": "Creative keyboard with modern sounds and features for music production.",
+    "category": "keyboards",
+    "brand": "Roland",
+    "price": 45999,
+    "discountPercentage": 7,
+    "rating": 0,
+    "ratingCount": 0,
+    "stock": 5,
+    "thumbnail": "https://m.media-amazon.com/images/I/61etXGmAm5L._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/51IfZS+QUUL._SX569_.jpg",
+      "https://m.media-amazon.com/images/I/61uqArEeLbL._SX569_.jpg",
+      "https://m.media-amazon.com/images/I/51EuWy7kxFL._SY450_.jpg"
+    ],
+    "instrumentType": "Creative Keyboard",
+    "specifications": {
+      "Keys": "61",
+      "Sound Engine": "ZEN-Core",
+      "Connectivity": "Bluetooth and USB",
+      "Color": "Black"
+    },
+    "tags": ["keyboard", "creative", "digital"],
+    "returnPolicy": "7-day returns",
+    "warrantyInformation": "1 year warranty",
+    "reviews": []
+  },
+  {
+    "title": "Yamaha P-45 Digital Piano",
+    "description": "Compact digital piano with weighted keys and realistic piano sound.",
+    "category": "keyboards",
+    "brand": "Yamaha",
+    "price": 32999,
+    "discountPercentage": 5,
+    "rating": 0,
+    "ratingCount": 0,
+    "stock": 6,
+    "thumbnail": "https://m.media-amazon.com/images/I/41VOqgCF7RL._SY300_SX300_QL70_FMwebp_.jpg",
+    "images": [
+       "https://m.media-amazon.com/images/I/71DWp84bALL._SY450_.jpg",
+       "https://m.media-amazon.com/images/I/711QOU5xjdL._SY450_.jpg",
+        "https://m.media-amazon.com/images/I/71u4EMcFSTL._SY450_.jpg"
+    ],
+    "instrumentType": "Digital Piano",
+    "specifications": {
+      "Keys": "88",
+      "Key Action": "Graded Hammer Standard",
+      "Polyphony": "64",
+      "Color": "Black"
+    },
+    "tags": ["digital-piano", "weighted-keys"],
+    "returnPolicy": "7-day returns",
+    "warrantyInformation": "1 year warranty",
+    "reviews": []
+  },
+  {
+    "title": "Pearl Roadshow Drum Kit",
+    "description": "Complete acoustic drum kit suitable for beginners and practice.",
+    "category": "drums",
+    "brand": "Pearl",
+    "price": 45999,
+    "discountPercentage": 10,
+    "rating": 0,
+    "ratingCount": 0,
+    "stock": 4,
+    "thumbnail": "https://m.media-amazon.com/images/I/81bIMn7vYnL._SX679_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/81rPfqIm1RL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/81WT06omfGL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/915gCcITaeL._SX679_.jpg"
+    ],
+    "instrumentType": "Acoustic Drum Kit",
+    "specifications": {
+      "Pieces": "5",
+      "Shell Material": "Poplar",
+      "Skill Level": "Beginner",
+      "Color": "Black"
+    },
+    "tags": ["drums", "acoustic", "beginner"],
+    "returnPolicy": "7-day returns",
+    "warrantyInformation": "1 year warranty",
+    "reviews": []
+  },
+  {
+    "title": "Roland TD-02K Electronic Drum Kit",
+    "description": "Compact electronic drum kit with responsive pads for home practice.",
+    "category": "drums",
+    "brand": "Roland",
+    "price": 39999,
+    "discountPercentage": 8,
+    "rating": 0,
+    "ratingCount": 0,
+    "stock": 7,
+    "thumbnail": "https://m.media-amazon.com/images/I/41VIR2qzgeL._SY300_SX300_QL70_FMwebp_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71wBQDBfutL._SY450_.jpg",
+      "https://m.media-amazon.com/images/I/71XNSzBQ8DL._SY450_.jpg",
+      "https://m.media-amazon.com/images/I/61bC80VmIgL._SL1000_.jpg"
+    ],
+    "instrumentType": "Electronic Drum Kit",
+    "specifications": {
+      "Pads": "5",
+      "Sounds": "Drum Kits",
+      "Connectivity": "USB",
+      "Color": "Black"
+    },
+    "tags": ["electronic-drums", "practice"],
+    "returnPolicy": "7-day returns",
+    "warrantyInformation": "1 year warranty",
+    "reviews": []
+  },
+  {
+    "title": "Kadence Ukulele Concert",
+    "description": "Compact four-string concert ukulele with a warm and bright tone.",
+    "category": "ukuleles",
+    "brand": "Kadence",
+    "price": 2999,
+    "discountPercentage": 10,
+    "rating": 0,
+    "ratingCount": 0,
+    "stock": 25,
+    "thumbnail": "https://m.media-amazon.com/images/I/51S9-sKCJQL._SY450_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/51boCLlA9fL._SY450_.jpg",
+      "https://m.media-amazon.com/images/I/51xUrH0kU8L._SY450_.jpg",
+      "https://m.media-amazon.com/images/I/51boCLlA9fL._SY450_.jpg"
+    ],
+    "instrumentType": "Concert Ukulele",
+    "specifications": {
+      "Strings": "4",
+      "Body Material": "Wood",
+      "Size": "Concert",
+      "Color": "Natural"
+    },
+    "tags": ["ukulele", "portable", "beginner"],
+    "returnPolicy": "7-day returns",
+    "warrantyInformation": "6 months warranty",
+    "reviews": []
+  },
+  {
+    "title": "Kala KA-15S Soprano Ukulele",
+    "description": "Soprano ukulele with a lightweight body and traditional sound.",
+    "category": "ukuleles",
+    "brand": "Kala",
+    "price": 4999,
+    "discountPercentage": 5,
+    "rating": 0,
+    "ratingCount": 0,
+    "stock": 14,
+    "thumbnail": "https://m.media-amazon.com/images/I/51te+f6qAXL._SY450_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/511Z3oZsLmL._SY450_.jpg",
+"https://m.media-amazon.com/images/I/718UizFo+4L._SY450_.jpg",
+"https://m.media-amazon.com/images/I/51wxbjnV8bL._SL1000_.jpg"
+    ],
+    "instrumentType": "Soprano Ukulele",
+    "specifications": {
+      "Strings": "4",
+      "Body Material": "Mahogany",
+      "Size": "Soprano",
+      "Color": "Brown"
+    },
+    "tags": ["ukulele", "soprano", "beginner"],
+    "returnPolicy": "7-day returns",
+    "warrantyInformation": "1 year warranty",
+    "reviews": []
+  },
+  {
+    "title": "Stentor Student II Violin",
+    "description": "Student violin outfit designed for learners and music students.",
+    "category": "violins",
+    "brand": "Stentor",
+    "price": 9999,
+    "discountPercentage": 7,
+    "rating": 0,
+    "ratingCount": 0,
+    "stock": 9,
+    "thumbnail": "https://m.media-amazon.com/images/I/71FqobZDZDL._SL1499_.jpg",
+    "images": [
+    " https://m.media-amazon.com/images/I/71MrVNozzBL._SL1500_.jpg",
+"https://m.media-amazon.com/images/I/71z3EcRIrEL._SL1500_.jpg",
+"https://m.media-amazon.com/images/I/71vg-p7tTiL._SL1500_.jpg"
+    ],
+    "instrumentType": "Acoustic Violin",
+    "specifications": {
+      "Strings": "4",
+      "Size": "4/4",
+      "Body Material": "Maple and Spruce",
+      "Color": "Natural Brown"
+    },
+    "tags": ["violin", "student", "orchestra"],
+    "returnPolicy": "7-day returns",
+    "warrantyInformation": "1 year warranty",
+    "reviews": []
+  },
+  {
+    "title": "Yamaha YFL-222 Flute",
+    "description": "Student flute with a silver-plated finish and comfortable key design.",
+    "category": "flutes",
+    "brand": "Yamaha",
+    "price": 24999,
+    "discountPercentage": 6,
+    "rating": 0,
+    "ratingCount": 0,
+    "stock": 6,
+    "thumbnail": "https://m.media-amazon.com/images/I/411DmoQMX8L._SY450_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/41hDsKnziKL._SY450_.jpg",
+"https://m.media-amazon.com/images/I/51h+J-5-nAL._SY450_.jpg",
+"https://m.media-amazon.com/images/I/41PEKqmRuML._SY450_.jpg"
+    ],
+    "instrumentType": "Concert Flute",
+    "specifications": {
+      "Material": "Nickel Silver",
+      "Finish": "Silver Plated",
+      "Key System": "Offset G",
+      "Skill Level": "Student"
+    },
+    "tags": ["flute", "wind-instrument", "student"],
+    "returnPolicy": "7-day returns",
+    "warrantyInformation": "1 year warranty",
+    "reviews": []
+  },
+  {
+    "title": "Casio SA-51 Mini Keyboard",
+    "description": "Compact mini keyboard designed for children and beginners.",
+    "category": "keyboards",
+    "brand": "Casio",
+    "price": 4999,
+    "discountPercentage": 10,
+    "rating": 0,
+    "ratingCount": 0,
+    "stock": 20,
+    "thumbnail": "https://m.media-amazon.com/images/I/71nqpymK-eL._SX569_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/7139lQktHoL._SX569_.jpg",
+      "https://m.media-amazon.com/images/I/51cXStWKuUL._SX569_.jpg",
+      "https://m.media-amazon.com/images/I/91t-XSyQVNL._SL1500_.jpg"
+    ],
+    "instrumentType": "Mini Keyboard",
+    "specifications": {
+      "Keys": "32",
+      "Tones": "100",
+      "Power": "Battery",
+      "Color": "Black"
+    },
+    "tags": ["mini-keyboard", "children", "beginner"],
+    "returnPolicy": "7-day returns",
+    "warrantyInformation": "1 year warranty",
+    "reviews": []
+  }
+]
